@@ -1,0 +1,11 @@
+{
+  "name": "atom-umsl-ui",
+  "theme": "ui",
+  "version": "0.0.0",
+  "description": "An UMSL UI theme for Atom",
+  "license": "MIT",
+  "repository": "https://gitlab.com/chaserichards01/atom-umsl-ui",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
